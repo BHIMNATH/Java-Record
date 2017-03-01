@@ -24,4 +24,3 @@ public class TestInterface{
 		iface.message("Welcome");
 	}
 }
-
