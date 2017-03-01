@@ -4,6 +4,5 @@ import java.awt.*;
 public class AppletTest extends Applet{
 	public void paint(Graphics g){
 		g.drawString("Hello World",25,66);
-		//setBackground(Color.black);
 	}
 }
